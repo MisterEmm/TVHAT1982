@@ -36,7 +36,7 @@ You'll also need a button connected to the GPIO - this script uses GPIO26 and a 
 
 After all of the above the Pi should display the channel1.M3U playlist after the first button press, and then work through the sequence 1-4 for subsequent presses. If more channels are needed you can just add more playlists and change the IF i > 4 part of the script to reflect the total number. 
 
-It's a simple script but fun, check out my Pi Projects on 
+It's a simple script but fun, check out my other Pi Projects at: 
 
 Instructables - https://www.instructables.com/member/MisterM/instructables/ 
 
