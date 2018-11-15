@@ -2,7 +2,7 @@
 A Python script to change TV HAT stream channels on a Raspberry Pi using VLC playlists and a button
 
 
-This script sets up a Raspberry Pi to change TV channels being streamed from another Raspberry Pi on the same network running TVheadend and a Raspberry Pi TV HAT. 
+This script sets up a Raspberry Pi to change TV channels being streamed from another Raspberry Pi on the same network running TVheadend and a Raspberry Pi TV HAT. It simulates living in the UK in 1982, when channels were changed manually and there were only four TV channels.
 
 Prerequisites
 -------------
