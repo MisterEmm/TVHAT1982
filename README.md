@@ -8,7 +8,9 @@ Prerequisites
 -------------
 
 A second Raspberry Pi on the network running TVheadend (https://tvheadend.org/)
+
 A folder named "channels" containing M3U playlists named to match the references in channelswitch.py, in the /home/pi/ folder.
+
 An installation of VLC. A "standard" installation works OK for SD channels (SD Default can be set in TVheadend)). For better performance a hardware-accelerated version of VLC can (theoretically) be compiled.
 
 Setup
