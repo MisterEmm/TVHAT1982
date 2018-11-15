@@ -38,9 +38,9 @@ After all of the above the Pi should display the channel1.M3U playlist after the
 
 It's a simple script but fun, check out my Pi Projects on 
 
-Instructables at https://www.instructables.com/member/MisterM/instructables/ , subscribe to the 
-Old Tech. New Spec. YouTube channel at https://www.youtube.com/channel/UCRrwSKYBu4N7P6HWZsWJ2MA ,join in on 
-Twitter @OldTechNewSpec. 
-Website: http://kyliemander.com/blog/
+Instructables - https://www.instructables.com/member/MisterM/instructables/ 
+Old Tech. New Spec. YouTube channel - https://www.youtube.com/channel/UCRrwSKYBu4N7P6HWZsWJ2MA
+Twitter - @OldTechNewSpec. 
+Website: http://bit.ly/OldTechNewSpec
 
 
